@@ -1,0 +1,10 @@
+com/adchou/productservice/repository/ProductRepository.class
+com/adchou/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/adchou/productservice/model/Product$ProductBuilder.class
+com/adchou/productservice/dto/ProductRequest.class
+com/adchou/productservice/controller/ProductController.class
+com/adchou/productservice/model/Product.class
+com/adchou/productservice/dto/ProductResponse.class
+com/adchou/productservice/ProductServiceApplication.class
+com/adchou/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/adchou/productservice/service/ProductService.class

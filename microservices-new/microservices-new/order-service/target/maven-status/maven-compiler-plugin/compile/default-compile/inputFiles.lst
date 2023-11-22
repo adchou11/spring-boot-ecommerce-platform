@@ -1,0 +1,10 @@
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/dto/OrderLineItemsDto.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/dto/InventoryResponse.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/model/OrderLineItems.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/model/Order.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/dto/OrderRequest.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/config/WebClientConfig.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/controller/OrderController.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/OrderServiceApplication.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/repository/OrderRepository.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/order-service/src/main/java/com/adchou/orderservice/service/OrderService.java

@@ -1,0 +1,7 @@
+com/adchou/inventoryservice/service/InventoryService.class
+com/adchou/inventoryservice/dto/InventoryResponse.class
+com/adchou/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/adchou/inventoryservice/model/Inventory.class
+com/adchou/inventoryservice/controller/InventoryController.class
+com/adchou/inventoryservice/repository/InventoryRepository.class
+com/adchou/inventoryservice/InventoryServiceApplication.class

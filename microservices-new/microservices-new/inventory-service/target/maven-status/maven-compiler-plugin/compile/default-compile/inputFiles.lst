@@ -1,0 +1,6 @@
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/inventory-service/src/main/java/com/adchou/inventoryservice/service/InventoryService.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/inventory-service/src/main/java/com/adchou/inventoryservice/dto/InventoryResponse.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/inventory-service/src/main/java/com/adchou/inventoryservice/InventoryServiceApplication.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/inventory-service/src/main/java/com/adchou/inventoryservice/model/Inventory.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/inventory-service/src/main/java/com/adchou/inventoryservice/repository/InventoryRepository.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/inventory-service/src/main/java/com/adchou/inventoryservice/controller/InventoryController.java

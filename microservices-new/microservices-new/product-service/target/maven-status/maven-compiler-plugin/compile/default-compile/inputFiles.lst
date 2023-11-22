@@ -1,0 +1,7 @@
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/ProductServiceApplication.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/repository/ProductRepository.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/service/ProductService.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/dto/ProductRequest.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/dto/ProductResponse.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/controller/ProductController.java
+/Users/alexchou/Documents/MCIT_Fall_23/microservices-new-repo/microservices-new/microservices-new/product-service/src/main/java/com/adchou/productservice/model/Product.java

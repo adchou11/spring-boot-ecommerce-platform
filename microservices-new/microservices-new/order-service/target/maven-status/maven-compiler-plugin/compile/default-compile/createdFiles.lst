@@ -1,0 +1,11 @@
+com/adchou/orderservice/OrderServiceApplication.class
+com/adchou/orderservice/dto/OrderLineItemsDto.class
+com/adchou/orderservice/dto/InventoryResponse.class
+com/adchou/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/adchou/orderservice/dto/OrderRequest.class
+com/adchou/orderservice/config/WebClientConfig.class
+com/adchou/orderservice/controller/OrderController.class
+com/adchou/orderservice/model/OrderLineItems.class
+com/adchou/orderservice/service/OrderService.class
+com/adchou/orderservice/repository/OrderRepository.class
+com/adchou/orderservice/model/Order.class
